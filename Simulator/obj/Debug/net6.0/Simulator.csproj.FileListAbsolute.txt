@@ -1,0 +1,15 @@
+D:\Hema\practice\Simulator\Simulator\obj\Debug\net6.0\Simulator.csproj.AssemblyReference.cache
+D:\Hema\practice\Simulator\Simulator\obj\Debug\net6.0\Simulator.GeneratedMSBuildEditorConfig.editorconfig
+D:\Hema\practice\Simulator\Simulator\obj\Debug\net6.0\Simulator.AssemblyInfoInputs.cache
+D:\Hema\practice\Simulator\Simulator\obj\Debug\net6.0\Simulator.AssemblyInfo.cs
+D:\Hema\practice\Simulator\Simulator\obj\Debug\net6.0\Simulator.csproj.CoreCompileInputs.cache
+D:\Hema\practice\Simulator\Simulator\bin\Debug\net6.0\Simulator.exe
+D:\Hema\practice\Simulator\Simulator\bin\Debug\net6.0\Simulator.deps.json
+D:\Hema\practice\Simulator\Simulator\bin\Debug\net6.0\Simulator.runtimeconfig.json
+D:\Hema\practice\Simulator\Simulator\bin\Debug\net6.0\Simulator.dll
+D:\Hema\practice\Simulator\Simulator\bin\Debug\net6.0\Simulator.pdb
+D:\Hema\practice\Simulator\Simulator\obj\Debug\net6.0\Simulator.dll
+D:\Hema\practice\Simulator\Simulator\obj\Debug\net6.0\refint\Simulator.dll
+D:\Hema\practice\Simulator\Simulator\obj\Debug\net6.0\Simulator.pdb
+D:\Hema\practice\Simulator\Simulator\obj\Debug\net6.0\Simulator.genruntimeconfig.cache
+D:\Hema\practice\Simulator\Simulator\obj\Debug\net6.0\ref\Simulator.dll
